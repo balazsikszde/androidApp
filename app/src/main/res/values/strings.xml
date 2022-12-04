@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">JokeAPI</string>
+    <string name="random_joke">Random Joke</string>
+    <string name="categories">Categories</string>
+    <string name="prev">prev</string>
+    <string name="next">next</string>
+    <string name="URL">https://v2.jokeapi.dev/joke/</string>
+    <string name="documentation">Documentation</string>
+    <string name="info">JokeAPI is a REST API that serves uniformly and well formatted jokes.
+                        It can be used without any API token, membership, registration or payment.
+                        It supports a variety of filters that can be applied to get just the right jokes you need.
+                        The usage is very simple and similar to other RESTful APIs and requires only basic knowledge of HTTP requests and JSON, XML, YAML or plain text.</string>
+    <string-array name="category_list">
+        <item>Programming</item>
+        <item>Dark</item>
+        <item>Pun</item>
+        <item>Spooky</item>
+        <item>Christmas</item>
+        <item>Misc</item>
+    </string-array>
+    <string name="headerIconText">Icon</string>
+    <string name="headerCategoryText">Categories</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="main_menu">main menu</string>
+    <string name="icon">Icon</string>
+
+</resources>
